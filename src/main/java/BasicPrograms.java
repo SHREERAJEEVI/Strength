@@ -14,7 +14,7 @@ public class BasicPrograms {
 			}
 			}System.out.println(a[a.length-1]);
 			System.out.println("highest no");
-			}
+			System.out.println("hello");	}
 
 
 }
