@@ -13,6 +13,7 @@ public class BasicPrograms {
 			}
 			}
 			}System.out.println(a[a.length-1]);
+			System.out.println("This program is for highest no");
 			}
 
 
